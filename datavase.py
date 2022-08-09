@@ -1,1 +1,1 @@
-print('второй проект для github')
+import sqlite3
